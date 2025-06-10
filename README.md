@@ -33,6 +33,3 @@ This project is a **customized chatbot** designed specifically for university st
 | API             | RESTful APIs           |
 
 ---
-
-## Project Structure 🗂️
-
